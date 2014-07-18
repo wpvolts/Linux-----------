@@ -26,4 +26,4 @@ Linux  解压缩&安装问题
     
     最后运行：sudo dpkg --configure -a  重新配置（系统会提醒）
     
-    ps：参见[http://blog.csdn.net/feng2375/article/details/7929480](http://blog.csdn.net/feng2375/article/details/7929480)
+ps：参见[http://blog.csdn.net/feng2375/article/details/7929480](http://blog.csdn.net/feng2375/article/details/7929480)
